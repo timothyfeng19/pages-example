@@ -1,4 +1,7 @@
 Example readme
 
-git add .
-git commit -m "message"
+git status
+
+git add <name, use . for everything>
+git commit -m "<message>"
+git push
